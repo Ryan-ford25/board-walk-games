@@ -16,6 +16,8 @@
 
 body {
     font-family: var(--primary-font);
+    /*Adjusted the padding so the nav bar doesn't overlap the main content*/
+    padding-top: 57.15px;
 }
 
 h1,
